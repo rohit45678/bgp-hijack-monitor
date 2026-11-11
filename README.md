@@ -1,2 +1,4 @@
-# bgp-hijack-monitor
-BGP security monitor that detects hijacks and route leaks and injects RPKI/IRR filters automatically.
+# BGP Hijack & Route-Leak Monitor
+Autonomous monitor that watches global BGP updates for prefix hijacks and route leaks, validates announcements against RPKI/IRR data, and injects filters to mitigate malicious or accidental mis-originations.
+**Tech stack:** Python, BGP, RPKI, IRR, Route Security
+**Highlights:** real-time BGP update analysis; RPKI origin validation; automated filter injection; alerting on anomalous announcements.
