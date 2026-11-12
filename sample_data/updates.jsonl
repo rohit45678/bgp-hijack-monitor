@@ -1,0 +1,9 @@
+{"type": "announce", "timestamp": "2026-11-12T09:00:01Z", "prefix": "203.0.113.0/24", "origin_as": 64500, "as_path": [64496, 64500], "peer_as": 64496}
+{"type": "announce", "timestamp": "2026-11-12T09:00:04Z", "prefix": "198.51.100.0/24", "origin_as": 64503, "as_path": [64496, 64501, 64503], "peer_as": 64496}
+{"type": "announce", "timestamp": "2026-11-12T09:00:07Z", "prefix": "192.0.2.0/24", "origin_as": 64500, "as_path": [64496, 64500], "peer_as": 64496}
+{"type": "announce", "timestamp": "2026-11-12T09:01:12Z", "prefix": "203.0.113.0/24", "origin_as": 64600, "as_path": [64496, 64501, 64600], "peer_as": 64496}
+{"type": "announce", "timestamp": "2026-11-12T09:01:40Z", "prefix": "192.0.2.128/25", "origin_as": 64500, "as_path": [64496, 64500], "peer_as": 64496}
+{"type": "announce", "timestamp": "2026-11-12T09:02:03Z", "prefix": "198.51.100.0/24", "origin_as": 64503, "as_path": [64496, 64502, 64501, 64503], "peer_as": 64496}
+{"type": "announce", "timestamp": "2026-11-12T09:02:31Z", "prefix": "203.0.113.128/25", "origin_as": 64600, "as_path": [64496, 64501, 64600], "peer_as": 64496}
+{"type": "announce", "timestamp": "2026-11-12T09:03:15Z", "prefix": "192.0.3.0/24", "origin_as": 64502, "as_path": [64496, 64502], "peer_as": 64496}
+{"type": "withdraw", "timestamp": "2026-11-12T09:04:00Z", "prefix": "192.0.3.0/24", "peer_as": 64496}
